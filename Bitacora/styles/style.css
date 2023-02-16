@@ -1,0 +1,35 @@
+html {
+    font-size: 20px;
+    font-family: "garamond", monospace;
+}
+
+
+
+table {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    
+}
+
+h2 {
+    color:red;
+}
+
+footer {
+    color:midnightblue;
+    font-size: 20px;
+}
+
+th {
+    background-color:darkred;
+}
+
+td {
+    background-color: whitesmoke;
+}
+
+p {
+    text-align: justify;
+    font-size: 25px;
+}
