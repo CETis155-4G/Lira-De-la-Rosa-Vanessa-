@@ -1,0 +1,72 @@
+body {
+    background-color:#deecf9 ;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.menu {
+    list-style: none;
+    padding: 0;
+    background-color: #014ba0;
+    width: 100%;
+    max-width: 1300px;
+    margin: auto;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+
+.menu li {
+    display: inline-block;
+    text-align: center;
+}
+
+.menu li a:hover {
+    background: #0078d4;
+}
+
+
+
+header {
+    padding: 10px;
+    text-align: center;
+    background-color: #092327;
+    color: white;
+}    
+
+
+.boton-registro{
+    text-decoration: none;
+    font-size: 23px;
+    color: white;
+    background-color:#2b88d8 ;
+    border-color:#0078d4;
+    border-radius: 10px; 
+    cursor: pointer;
+    position: absolute;
+    right: 15%;
+    bottom: 80%;
+
+}
+
+
+.boton-inicio{
+    text-decoration: none;
+    font-size: 23px;
+    color: white;
+    background-color:#2b88d8 ;
+    border-color:#0078d4;
+    border-radius: 10px;
+    cursor: pointer;
+    position: absolute;
+    right: 3%;
+    bottom: 80%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
