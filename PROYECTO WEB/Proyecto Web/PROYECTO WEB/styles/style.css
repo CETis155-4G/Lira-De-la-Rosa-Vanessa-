@@ -1,0 +1,43 @@
+h2 {
+    vertical-align:middle;/* se utiliza para alinear el texto verticalmente*/
+    font-size: 25px;/* se utiliza para cambiar el tamaño de la letra */
+    color: white;/* se utiliza para cambiar el color de la letra */
+
+}
+
+h3 {
+    font-size: 20px;/* se utiliza para cambiar el tamaño de la letra */
+    color: black;/* se utiliza para cambiar el color de la letra */
+}
+
+.boton-personalizado {
+    text-decoration: none;/* utiliza para cambiar la apariencia de las lineas decorativas del texto */
+    font-size: 20px;/* se utiliza para cambiar el tamaño de la letra */
+    color: white;/* se utiliza para cambiar el color de la letra */
+    background-color:#2b88d8;/* se define el color del fondo */
+    border-color:#0078d4 ;/* se define el color del borde*/
+    border-radius: 3px;/* se utiliza para redondear los bordes*/
+    display: block;/*establece si un elemento se trata de bloque o en linea */
+    margin-right: auto;/* establece el area del margen*/
+    margin-left: auto;/* establece el area del margen*/
+    
+}
+
+.section-class {
+    background:#71afe5;/* se define el color del fondo */
+    padding: 20px;/* se utiliza para establecer un area de relleno */
+    width: 500px;/* se define la anchura de un elemento */
+    display: block;/*establece si un elemento se trata de bloque o en linea */
+    border-radius: 10px;/* se utiliza para redondear los bordes*/
+    margin: 0 auto;/* establece el area del margen*/
+    border-top: 5px solid #014ba0;/* se define el color del borde superior*/
+    border-bottom: 5px solid #014ba0;/* se define el color del borde inferior*/
+}
+
+body {
+    background-color:#deecf9  ;/* se define el color del fondo o cuerpo de la pagina */
+}
+
+header,p {
+    font-family:Georgia, 'Times New Roman', Times, serif;/* se define el tipo de letra*/
+}
