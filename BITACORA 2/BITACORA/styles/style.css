@@ -1,0 +1,42 @@
+html {
+    font-size: 20xp; /* se utiliza para cambiar el tamaño de la letra */
+    font-family: "garamond", monospace;  /* se utiliza para cambiar el tipo de letra */
+}
+
+
+table {
+    font-size: 16px;   /* se utiliza para cambiar el tamaño de la letra */
+    line-height: 2;  /* se utiliza para establecer la altura de un cuadro de linea*/
+    letter-spacing: 1px;  /* se utiliza para definir el espacio entre las letras */
+    
+}
+
+h2 {
+    color:red;  /* se utiliza para cambiar el color de la letra */
+}
+
+footer {
+    color:midnightblue;   /* se utiliza para cambiar el color de la letra */
+    font-size: 20px;   /* se utiliza para cambiar el tamaño de la letra */
+}
+
+th {
+    background-color:darkred;  /* se utiliza para cambiar el color de la tabla */
+}
+
+td {
+    background-color: whitesmoke;  /* se utiliza para cambiar el color de la tabla */
+}
+
+p {
+   text-align: justify;  /* se utiliza para justificar el texto */
+   font-size: 22px;  /* se utiliza para cambiar el tamaño de la letra */
+}   
+
+ul {
+    font-size: 22px;   /* se utiliza para cambiar el tamaño de la letra */
+}
+   
+header, p {
+    font-family:Georgia, 'Times New Roman', Times, serif; /* se define el tipo de letra*/
+}
